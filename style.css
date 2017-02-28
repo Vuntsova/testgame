@@ -1,0 +1,50 @@
+body{
+	background: url("bg6.jpg") no-repeat center center fixed;
+    display: block;
+    max-width: 90%;
+    height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.row{
+	margin-top: 70px;
+}
+#bottom{
+    position: absolute no-repeat center center fixed;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#story{
+    position: absolute;
+    left: 220px;
+    top: 85px;
+    display: block;
+    max-width: 70%;
+    height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+#mainNumber{
+	display: block;
+    height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#greenCrystal, #blueCrystal, #lightBlueCrystal, #yellowCrystal{
+	display: none;
+}
